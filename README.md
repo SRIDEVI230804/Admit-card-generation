@@ -53,7 +53,7 @@ Keras
 TensorFlow
 ## Contributors
 
-Swetha M,Harishh A, Dinesh L &Sridevi T
+Sridevi T,Swetha M,Harishh A, Dinesh L 
 
 
 Feel free to contribute to the project by submitting issues or pull requests.
